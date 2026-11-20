@@ -35,7 +35,7 @@
 	A drawing opened from a file keeps that file's format.	Ένα σχέδιο που ανοίγεται από αρχείο διατηρεί τη μορφή του αρχείου του.
 	A variable name starts with a letter and has only letters, digits and _	Το όνομα μιας μεταβλητής αρχίζει με γράμμα και περιέχει μόνο γράμματα, ψηφία και _
 	About	Πληροφορίες
-	About CADCraft	Πληροφορίες για το CADCraft
+	About ICASYS CAD	Πληροφορίες για το ICASYS CAD
 	Absolute	Απόλυτο
 	Accessibility	Προσβασιμότητα
 	Add	Προσθήκη
@@ -125,9 +125,9 @@
 	ByBlock	Κατά μπλοκ (ByBlock)
 	ByColor	Κατά χρώμα (ByColor)
 	ByLayer	Κατά επίπεδο (ByLayer)
-	CADCraft	CADCraft
-	CADCraft Help	Βοήθεια CADCraft
-	CADCraft keeps these preferences, object snap modes and drafting toggles for your user account and restores them when it starts.	Το CADCraft αποθηκεύει τις προτιμήσεις, τις λειτουργίες έλξης αντικειμένων και τους διακόπτες σχεδίασης στον λογαριασμό σας και τις επαναφέρει στην εκκίνηση.
+	ICASYS CAD	ICASYS CAD
+	ICASYS CAD Help	Βοήθεια ICASYS CAD
+	ICASYS CAD keeps these preferences, object snap modes and drafting toggles for your user account and restores them when it starts.	Το ICASYS CAD αποθηκεύει τις προτιμήσεις, τις λειτουργίες έλξης αντικειμένων και τους διακόπτες σχεδίασης στον λογαριασμό σας και τις επαναφέρει στην εκκίνηση.
 	Calibrate	Βαθμονόμηση
 	Calibrate 3D Mouse	Βαθμονόμηση ποντικιού 3Δ
 	Cancel	Ακύρωση
@@ -467,7 +467,7 @@
 	Hide All	Απόκρυψη όλων
 	Hide All Constraint Bars	Απόκρυψη όλων των γραμμών περιορισμών
 	Hide All Dynamic Dimensions	Απόκρυψη όλων των δυναμικών διαστάσεων
-	Hide CADCraft	Απόκρυψη CADCraft
+	Hide ICASYS CAD	Απόκρυψη ICASYS CAD
 	Hide Layer List	Απόκρυψη λίστας επιπέδων
 	Hide Objects	Απόκρυψη αντικειμένων
 	Hide Others	Απόκρυψη άλλων
@@ -524,8 +524,8 @@
 	Jogged	Με παράκαμψη (Jogged)
 	Jogged Linear	Γραμμική διάσταση με παράκαμψη (Jogged Linear)
 	Join	Σύνδεση αντικειμένων (Join)
-	Join the ArtCraft Discord…	Ελάτε στο Discord του ArtCraft…
-	Join us on Discord	Ελάτε στο Discord
+	ICASYS Community…	Κοινότητα ICASYS…
+	Visit ICASYS	Επισκεφθείτε το ICASYS
 	Justify	Στοίχιση
 	Keep an editable copy of this table in the drawing	Διατήρηση επεξεργάσιμου αντιγράφου του πίνακα στο σχέδιο
 	Keep the system cursor visible over the drawing area	Ο δείκτης του συστήματος να παραμένει ορατός στην περιοχή σχεδίασης
@@ -699,7 +699,7 @@
 	OK	Εντάξει
 	On	Ενεργό
 	On/Off	Ενεργό/ανενεργό
-	One of the Crafting Apps by the ArtCraft team and community.	Μία από τις εφαρμογές Crafting Apps της ομάδας και της κοινότητας ArtCraft.
+	ICASYS edition, based on CADCraft by the ArtCraft team.	Έκδοση ICASYS, βασισμένη στο CADCraft της ομάδας ArtCraft.
 	Only in this drawing: {n}	Μόνο σε αυτό το σχέδιο: {n}
 	Only in {name}: {n}	Μόνο στο {name}: {n}
 	Oops	Επαναφορά διαγραμμένων αντικειμένων
@@ -812,7 +812,7 @@
 	Quick Select...	Γρήγορη επιλογή...
 	QuickCalc	Γρήγορη αριθμομηχανή (QuickCalc)
 	QuickCalc Pick	Επιλογή στη γρήγορη αριθμομηχανή
-	Quit CADCraft	Έξοδος από το CADCraft
+	Quit ICASYS CAD	Έξοδος από το ICASYS CAD
 	Radius	Ακτίνα
 	Raster Image	Εικόνα ψηφίδων (Raster Image)
 	Ray	Ημιευθεία (Ray)
@@ -1333,7 +1333,7 @@ menu	Draw	Σχεδίαση
 menu	Modify	Τροποποίηση
 menu	View	Προβολή
 	Check for Updates…	Έλεγχος για ενημερώσεις…
-	CADCraft is up to date.	Το CADCraft είναι ενημερωμένο.
+	ICASYS CAD is up to date.	Το ICASYS CAD είναι ενημερωμένο.
 	Could not check for updates.	Δεν ήταν δυνατός ο έλεγχος για ενημερώσεις.
 	Find All	Find All
 	Find what:	Find what:

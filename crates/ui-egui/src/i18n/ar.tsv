@@ -39,7 +39,7 @@
 	A drawing opened from a file keeps that file's format.	الرسم المفتوح من ملف يحتفظ بتنسيق ذلك الملف.
 	A variable name starts with a letter and has only letters, digits and _	يبدأ اسم المتغير بحرف ولا يحوي إلا أحرفاً وأرقاماً و _
 	About	حول
-	About CADCraft	حول CADCraft
+	About ICASYS CAD	حول ICASYS CAD
 	Absolute	مطلق
 	Accessibility	إمكانية الوصول
 	Add	إضافة
@@ -116,8 +116,8 @@
 	ByBlock	حسب الكتلة
 	ByColor	حسب اللون
 	ByLayer	حسب الطبقة
-	CADCraft Help	تعليمات CADCraft
-	CADCraft keeps these preferences, object snap modes and drafting toggles for your user account and restores them when it starts.	يحتفظ CADCraft بهذه التفضيلات وأنماط الالتقاط بالكائن ومفاتيح تبديل الرسم لحساب مستخدمك ويعيدها عند بدء التشغيل.
+	ICASYS CAD Help	تعليمات ICASYS CAD
+	ICASYS CAD keeps these preferences, object snap modes and drafting toggles for your user account and restores them when it starts.	يحتفظ ICASYS CAD بهذه التفضيلات وأنماط الالتقاط بالكائن ومفاتيح تبديل الرسم لحساب مستخدمك ويعيدها عند بدء التشغيل.
 	Calibrate	معايرة
 	Calibrate 3D Mouse	معايرة الفأرة ثلاثية الأبعاد
 	Cancel	إلغاء
@@ -424,7 +424,7 @@
 	Hide All	إخفاء الكل
 	Hide All Constraint Bars	إخفاء كل أشرطة القيود
 	Hide All Dynamic Dimensions	إخفاء كل التأشيرات الديناميكية
-	Hide CADCraft	إخفاء CADCraft
+	Hide ICASYS CAD	إخفاء ICASYS CAD
 	Hide Layer List	إخفاء قائمة الطبقات
 	Hide Objects	إخفاء الكائنات
 	Hide Others	إخفاء الطبقات الأخرى
@@ -476,8 +476,8 @@
 	Jogged	متعرج
 	Jogged Linear	خطي متعرج
 	Join	وصل
-	Join the ArtCraft Discord…	الانضمام إلى Discord الخاص بـ ArtCraft…
-	Join us on Discord	انضم إلينا على Discord
+	ICASYS Community…	مجتمع ICASYS…
+	Visit ICASYS	زيارة ICASYS
 	Keep an editable copy of this table in the drawing	الإبقاء على نسخة قابلة للتحرير من هذا الجدول في الرسم
 	Keep the system cursor visible over the drawing area	إبقاء مؤشر النظام مرئياً فوق منطقة الرسم
 	Language	اللغة
@@ -640,7 +640,7 @@
 	Offset	الإزاحة
 	On	تشغيل
 	On/Off	تشغيل/إيقاف
-	One of the Crafting Apps by the ArtCraft team and community.	أحد تطبيقات Crafting من فريق ArtCraft والمجتمع.
+	ICASYS edition, based on CADCraft by the ArtCraft team.	إصدار ICASYS، مبني على CADCraft من فريق ArtCraft.
 	Only in this drawing: {n}	في هذا الرسم فقط: {n}
 	Only in {name}: {n}	في {name} فقط: {n}
 	Oops	استعادة الكائنات الممحوة
@@ -746,7 +746,7 @@
 	Quick Select...	تحديد سريع...
 	QuickCalc	الحاسبة السريعة
 	QuickCalc Pick	اختيار الحاسبة السريعة
-	Quit CADCraft	إنهاء CADCraft
+	Quit ICASYS CAD	إنهاء ICASYS CAD
 	Radius	نصف القطر
 	Raster Image	صورة نقطية
 	Ray	شعاع
@@ -1237,7 +1237,7 @@ menu	View	عرض
 @plural	{n} commit	{n} إيداع|{n} إيداع|{n} إيداعان|{n} إيداعات|{n} إيداعاً|{n} إيداع
 @plural	{n} contributor	{n} مساهم|{n} مساهم|{n} مساهمان|{n} مساهمين|{n} مساهماً|{n} مساهم
 	Check for Updates…	التحقق من وجود تحديثات…
-	CADCraft is up to date.	CADCraft محدّث.
+	ICASYS CAD is up to date.	ICASYS CAD محدّث.
 	Could not check for updates.	تعذّر التحقق من وجود تحديثات.
 	Add to Working Set	إضافة إلى مجموعة العمل
 	Add: Pick points	إضافة: انتقاء نقاط

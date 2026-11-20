@@ -28,7 +28,7 @@
 	= Equals	= Gleich
 	> Greater than	> Größer als
 	About	Über
-	About CADCraft	Über CADCraft
+	About ICASYS CAD	Über ICASYS CAD
 	Absolute	Absolut
 	Add Leader	Führungslinie hinzufügen
 	Align	Ausrichten
@@ -84,7 +84,7 @@
 	ByBlock	VonBlock
 	ByColor	VonFarbe
 	ByLayer	VonLayer
-	CADCraft Help	CADCraft-Hilfe
+	ICASYS CAD Help	ICASYS CAD-Hilfe
 	Cancel	Abbrechen
 	Cartesian (x, y)	Kartesisch (x, y)
 	Center	Zentrum
@@ -363,8 +363,8 @@
 	Isolate Layer	Layer isolieren
 	Isometric Drafting	Isometrisches Zeichnen
 	Join	Verbinden
-	Join the ArtCraft Discord…	Dem ArtCraft-Discord beitreten…
-	Join us on Discord	Treten Sie uns auf Discord bei
+	ICASYS Community…	ICASYS-Community…
+	Visit ICASYS	ICASYS besuchen
 	Language	Sprache
 	Last	Letzter
 	Last commit	Letzter Commit
@@ -494,7 +494,7 @@
 	Offset	Versatz
 	On	Ein
 	On/Off	Ein/Aus
-	One of the Crafting Apps by the ArtCraft team and community.	Eine der Crafting Apps vom ArtCraft-Team und seiner Community.
+	ICASYS edition, based on CADCraft by the ArtCraft team.	ICASYS-Edition, basierend auf CADCraft vom ArtCraft-Team.
 	Oops	Gelöschte Objekte wiederherstellen
 	Open (⌘O)	Öffnen (⌘O)
 	Open Sample Drawing	Beispielzeichnung öffnen
@@ -596,7 +596,7 @@
 	Quick Select Properties	Schnellauswahl-Eigenschaften
 	Quick Select...	Schnellauswahl...
 	QuickCalc	QuickCalc
-	Quit CADCraft	CADCraft beenden
+	Quit ICASYS CAD	ICASYS CAD beenden
 	Radius	Radius
 	Raster Image	Rasterbild
 	Ray	Strahl
@@ -1003,7 +1003,7 @@
 @plural	{n} contributor	{n} Mitwirkender|{n} Mitwirkende
 	Drawing as bytes	Zeichnung als Bytes
 	Services	Dienste
-	Hide CADCraft	CADCraft ausblenden
+	Hide ICASYS CAD	ICASYS CAD ausblenden
 	Hide Others	Andere ausblenden
 	Accessibility	Bedienungshilfen
 	Show System Cursor	Systemzeiger anzeigen
@@ -1039,7 +1039,7 @@
 	Text color	Textfarbe
 	Click the ruler to add a tab stop, right-click to remove one	Klick auf das Lineal setzt einen Tabstopp, Rechtsklick entfernt ihn
 	Check for Updates…	Nach Updates suchen…
-	CADCraft is up to date.	CADCraft ist auf dem neuesten Stand.
+	ICASYS CAD is up to date.	ICASYS CAD ist auf dem neuesten Stand.
 	Could not check for updates.	Die Suche nach Updates ist fehlgeschlagen.
 	Find All	Find All
 	Find what:	Find what:

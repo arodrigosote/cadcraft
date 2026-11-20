@@ -23,7 +23,7 @@ pub struct Runtime {
 
 impl Default for Runtime {
     fn default() -> Self {
-        Self { updater: Updater::new(&crate::UPDATE_APP, VERSION), enabled: false, check_requested: false, result_echoed: false }
+        Self { updater: Updater::new(&crate::UPDATE_APP, VERSION).with_source(::std::sync::Arc::new(|| -> ::std::result::Result<::std::option::Option<::craft_update::Release>, ::std::string::String> { Err(::std::string::String::from("ICASYS apps are updated by ICASYS: https://icasys.mx / Las apps de ICASYS se actualizan desde ICASYS: https://icasys.mx")) })), enabled: false, check_requested: false, result_echoed: false }
     }
 }
 
@@ -50,7 +50,7 @@ pub fn tick(app: &mut CadApp, ctx: &egui::Context) {
     }
     rt.updater.tick(ctx);
     let outcome = match rt.updater.status() {
-        Status::UpToDate => Some(crate::tl!("CADCraft is up to date.")),
+        Status::UpToDate => Some(crate::tl!("ICASYS CAD is up to date.")),
         Status::Failed(_) => Some(crate::tl!("Could not check for updates.")),
         Status::Idle | Status::Checking | Status::Installing | Status::Ready | Status::Managed | Status::Updated(_) | Status::InstallFailed(_) => {
             None

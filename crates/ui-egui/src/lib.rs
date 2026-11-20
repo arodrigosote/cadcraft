@@ -14,6 +14,9 @@
 pub const UPDATE_APP: craft_update::app::App = craft_update::app::App {
     icon_png: Some(include_bytes!("../../../assets/app-icon/hicolor/128x128/apps/ai.storyteller.cadcraft.png")),
     accent: Some([0x3e, 0xa6, 0xe8]),
+    name: "ICASYS CAD",
+    developer: "ICASYS",
+    repo: "arodrigosote/cadcraft",
     ..craft_update::suite::CADCRAFT
 };
 
@@ -796,7 +799,7 @@ impl CadApp {
     pub fn open_size_error(name: &str, len: u64) -> Option<String> {
         (len > Self::MAX_OPEN_BYTES).then(|| {
             format!(
-                "Open: {name} is {:.1} MB, larger than the {} MB CADCraft opens in the browser",
+                "Open: {name} is {:.1} MB, larger than the {} MB ICASYS CAD opens in the browser",
                 len as f64 / 1048576.0,
                 Self::MAX_OPEN_BYTES >> 20
             )

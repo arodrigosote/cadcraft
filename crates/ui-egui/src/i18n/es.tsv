@@ -30,7 +30,7 @@
 	A drawing opened from a file keeps that file's format.	Un dibujo abierto desde un archivo conserva el formato de ese archivo.
 	A variable name starts with a letter and has only letters, digits and _	El nombre de una variable empieza por una letra y solo lleva letras, dígitos y _
 	About	Acerca de
-	About CADCraft	Acerca de CADCraft
+	About ICASYS CAD	Acerca de ICASYS CAD
 	Absolute	Absolutas
 	Add Current Scale	Añadir escala actual
 	Add Leader	Añadir directriz
@@ -109,9 +109,9 @@
 	ByBlock	PorBloque
 	ByColor	PorColor
 	ByLayer	PorCapa
-	CADCraft	CADCraft
-	CADCraft Help	Ayuda de CADCraft
-	CADCraft keeps these preferences, object snap modes and drafting toggles for your user account and restores them when it starts.	CADCraft guarda estas preferencias, los modos de referencia a objetos y los ajustes de dibujo para tu cuenta de usuario y los restaura al iniciarse.
+	ICASYS CAD	ICASYS CAD
+	ICASYS CAD Help	Ayuda de ICASYS CAD
+	ICASYS CAD keeps these preferences, object snap modes and drafting toggles for your user account and restores them when it starts.	ICASYS CAD guarda estas preferencias, los modos de referencia a objetos y los ajustes de dibujo para tu cuenta de usuario y los restaura al iniciarse.
 	Cancel	Cancelar
 	Cartesian (x, y)	Cartesianas (x, y)
 	Center	Centro
@@ -462,8 +462,8 @@
 	Jogged	Con recodo
 	Jogged Linear	Lineal con recodo
 	Join	Unir
-	Join the ArtCraft Discord…	Únete al Discord de ArtCraft…
-	Join us on Discord	Únete a nosotros en Discord
+	ICASYS Community…	Comunidad ICASYS…
+	Visit ICASYS	Visita ICASYS
 	Keep the system cursor visible over the drawing area	Mantener visible el cursor del sistema sobre el área de dibujo
 	Language	Idioma
 	Largest array	Matriz más grande
@@ -617,7 +617,7 @@
 	Offset	Desfase
 	On	Activado
 	On/Off	Activar/desactivar
-	One of the Crafting Apps by the ArtCraft team and community.	Una de las Crafting Apps del equipo y la comunidad de ArtCraft.
+	ICASYS edition, based on CADCraft by the ArtCraft team.	Edición ICASYS, basada en CADCraft del equipo de ArtCraft.
 	Only in this drawing: {n}	Solo en este dibujo: {n}
 	Only in {name}: {n}	Solo en {name}: {n}
 	Oops	Restaurar objetos borrados
@@ -800,7 +800,7 @@
 	Quick Select Properties	Propiedades de selección rápida
 	Quick Select...	Selección rápida...
 	QuickCalc	Calculadora rápida
-	Quit CADCraft	Salir de CADCraft
+	Quit ICASYS CAD	Salir de ICASYS CAD
 	Radius	Radio
 	Raster Image	Imagen ráster
 	Ray	Semirrecta
@@ -1223,7 +1223,7 @@
 @plural	{n} contributor	{n} colaborador|{n} colaboradores
 	Drawing as bytes	Dibujo como bytes
 	Services	Servicios
-	Hide CADCraft	Ocultar CADCraft
+	Hide ICASYS CAD	Ocultar ICASYS CAD
 	Hide Others	Ocultar otros
 	Accessibility	Accesibilidad
 	Show System Cursor	Mostrar cursor del sistema
@@ -1253,7 +1253,7 @@
 	Query Texts	Consultar textos
 	Analyze Shapes	Analizar formas
 	Check for Updates…	Buscar actualizaciones…
-	CADCraft is up to date.	CADCraft está actualizado.
+	ICASYS CAD is up to date.	ICASYS CAD está actualizado.
 	Could not check for updates.	No se pudo buscar actualizaciones.
 	Find All	Find All
 	Find what:	Find what:
